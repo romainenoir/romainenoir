@@ -7,7 +7,7 @@
 ▪️</>HTML/🎨CSS
 
 ### 🔲 Currently Learning
-▪️🟡Javascript
+▪️🔸Javascript
 <!--
 Here are some ideas to get you started:
 
