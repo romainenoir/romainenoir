@@ -1,12 +1,12 @@
 ## ▪️ROMAINE NOIR▫️
-### 🔲 TECH STACK
+### ◽️TECH STACK
 ▪️🐍Python
 
 ▫️🍾Flask
 
 ▪️</>HTML/🎨CSS
 
-### 🔲 Currently Learning
+### ◼️Currently Learning
 ▪️🔸Javascript
 <!--
 Here are some ideas to get you started:
