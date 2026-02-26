@@ -1,7 +1,9 @@
 ## ▪️ROMAINE NOIR▫️
 ### TECH STACK
 ▪️🐍Python
+
 ▫️🍾Flask
+
 ▪️</>HTML/🎨CSS
 
 <!--
