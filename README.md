@@ -4,10 +4,12 @@
 
 ▫️🍾Flask
 
-▪️</>HTML/🎨CSS
+▪️</>HTML
 
 ### ◼️Currently Learning
 ▪️🔸Javascript
+
+▪️🎨CSS
 <!--
 Here are some ideas to get you started:
 
