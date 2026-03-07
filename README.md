@@ -7,7 +7,7 @@
 ▪️</>HTML
 
 ### ◼️Currently Learning
-▪️🔸Javascript
+▫️🔸Javascript
 
 ▪️🎨CSS
 <!--
