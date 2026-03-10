@@ -3,6 +3,7 @@
 I create simple web app tools at the moment, but do plan to create browser games sometime in the future.
 
 ### ◼️My Work
+#### Web Apps
 FilpMyFile (File Converter) - https://file-converter-website.onrender.com
 
 TextFlipper (Text Converter) - https://textflipper.onrender.com/
@@ -31,6 +32,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=romainenoir&" alt="romainenoir" /></p>
 
 
