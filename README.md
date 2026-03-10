@@ -31,7 +31,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=romainenoir&show_icons=true&locale=en" alt="romainenoir" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=romainenoir&" alt="romainenoir" /></p>
 
 
