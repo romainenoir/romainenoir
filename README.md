@@ -1,22 +1,22 @@
-## ▪️ROMAINE NOIR▫️
-### ◽️ABOUT ME
+# ▪️ROMAINE NOIR▫️
+## ◽️ABOUT ME
 I create simple web app tools at the moment, but do plan to create browser games sometime in the future.
 
-### ◼️My Work
+## ◼️My Work
 
-#### Web Apps
+### Web Apps
 FilpMyFile (File Converter) - https://file-converter-website.onrender.com
 
 TextFlipper (Text Converter) - https://textflipper.onrender.com/
 
-### ◽️TECH STACK
+## ◽️TECH STACK
 ▪️🐍Python
 
 ▫️🍾Flask
 
 ▪️</>HTML
 
-### ◼️Currently Learning
+## ◼️Currently Learning
 ▫️🔸Javascript
 
 ▪️🎨CSS
