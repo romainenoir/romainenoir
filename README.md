@@ -7,7 +7,7 @@ I create simple web app tools at the moment, but do plan to create browser games
 ### Web Apps
 [FilpMyFile](https://file-converter-website.onrender.com) (File Converter) - https://github.com/romainenoir/file-converter_flask
 
-[TextFlipper](https://textflipper.onrender.com/) (Text Converter) 
+[TextFlipper](https://textflipper.onrender.com/) (Text Converter) - https://github.com/romainenoir/textcase_converter
 
 ## ◽️TECH STACK
 ▪️🐍Python
