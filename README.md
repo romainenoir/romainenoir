@@ -14,7 +14,7 @@ I create simple web app tools at the moment, but do plan to create browser games
 
 ▫️🍾Flask
 
-▪️</>HTML
+▪️</>HTML & CSS
 
 ▫️⬆️Render
 
