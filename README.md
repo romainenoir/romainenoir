@@ -21,7 +21,7 @@ I create simple web app tools at the moment, but do plan to create browser games
 ## ◼️Currently Learning
 ▫️🔸Javascript
 
-▪️🎨CSS
+▪️✅ Selenium
 <!--
 Here are some ideas to get you started:
 
