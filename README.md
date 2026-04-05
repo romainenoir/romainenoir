@@ -18,10 +18,6 @@ I create simple web app tools at the moment, but do plan to create browser games
 
 ▫️⬆️Render
 
-## ◼️Currently Learning
-▫️🔸Javascript
-
-▪️✅ Selenium
 <!--
 Here are some ideas to get you started:
 
