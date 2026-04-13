@@ -2,7 +2,7 @@
 ## ◽️ABOUT ME
 I create simple web app tools at the moment, but do plan to create browser games sometime in the future.
 
-## ◼️My Work
+## ◼️My Projects
 
 ### Web Apps
 [FilpMyFile](https://file-converter-website.onrender.com) (File Converter) - https://github.com/romainenoir/file-converter_flask
